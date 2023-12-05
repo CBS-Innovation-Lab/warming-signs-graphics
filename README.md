@@ -1,3 +1,3 @@
-# data-project-template
+# warming signs maps
 
-This is my template repo for data journalism projects. It contains a devcontainer designed to be used with GitHub Codespaces, and a number of setup files that makes setting up and managing projects easier. 
+A notebook that generates a couple of maps for Baltimore's rising seas stories, and a github page to host them.
